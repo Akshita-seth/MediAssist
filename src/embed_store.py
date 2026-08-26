@@ -71,6 +71,7 @@ def retrieve(query, source_doc=None, top_k=3):
     )
     return results
 
+# While normal execution
 if __name__ == "__main__":
     results = retrieve(
         "What was the patient's hemoglobin level?",

@@ -194,7 +194,7 @@
   {
     "doc": "lab_01.pdf",
     "question": "What was the fasting glucose result?",
-    "answer": "Clinical Impression: Mild dyslipidemia with impaired fasting glucose",
+    "answer": "Fasting Glucose: 112 mg/dL (Reference Range: 70-99 mg/dL fasting)",
     "type": "info"
   },
   {
@@ -417,12 +417,6 @@
     "doc": "prescription_02.pdf",
     "question": "What Metformin XR prescription was written?",
     "answer": "Tab Metformin XR 500 mg PO BID PC x 60 tabs RF:3",
-    "type": "info"
-  },
-  {
-    "doc": "prescription_02.pdf",
-    "question": "Which medication was prescribed for diabetic peripheral neuropathy?",
-    "answer": "Cap Pregabalin 75 mg PO HS x 30 caps RF:2",
     "type": "info"
   },
   {

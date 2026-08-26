@@ -1,3 +1,4 @@
+import re
 from ingest import parse_pdf
 
 
@@ -51,10 +52,34 @@ def group_by_section(elements):
     return sections
 
 
+def split_merged_cells(section_elements):
+    fixed = []
+    for el in section_elements:
+        if el["is_table_header"]:
+            fixed.append(el)
+            continue
+
+        words = el["text"].split(" ")
+        split_index = None
+        for idx, word in enumerate(words):
+            if word and (word[0].isdigit() or word[0] in "<>"):
+                split_index = idx
+                break
+
+        if split_index is not None and split_index > 0:
+            label_part = " ".join(words[:split_index]).strip()
+            value_part = " ".join(words[split_index:]).strip()
+            fixed.append({"text": label_part, "is_header": False, "is_table_header": False})
+            fixed.append({"text": value_part, "is_header": False, "is_table_header": False})
+        else:
+            fixed.append(el)
+
+    return fixed
+
 def chunk_lab_results(section_elements):
     """
     Splits a lab-results-style section into one chunk per test row,
-    detecting the column count dynamically from the table header run
+    detecting the column count dynamically from the table header row
     instead of assuming a fixed 3 columns.
     """
     column_count = 0
@@ -68,6 +93,7 @@ def chunk_lab_results(section_elements):
         return chunk_lab_lines_no_table(section_elements)
 
     data_elements = section_elements[column_count:]
+    data_elements = split_merged_cells(data_elements)
 
     chunks = []
     i = 0
@@ -87,6 +113,7 @@ def chunk_lab_results(section_elements):
         i += 1
     return chunks
 
+
 def chunk_lab_lines_no_table(section_elements):
     """
     Handles lab sections that aren't tables - already single-line
@@ -97,6 +124,7 @@ def chunk_lab_lines_no_table(section_elements):
     for el in section_elements:
         chunks.append({"section": "LAB RESULTS", "content": el["text"]})
     return chunks
+
 
 def build_chunks(pdf_path):
     """
@@ -127,4 +155,3 @@ if __name__ == "__main__":
             print(f"\n=== {chunk['section']} ===")
             last_section = chunk['section']
         print(chunk['content'])
-
