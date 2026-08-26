@@ -1,0 +1,58 @@
+## Patient Info:
+Patient Name: Soren Willowmere (fictional synthetic patient)
+Age: 58 years
+Sex: Male
+Medical Record Number: SYN-84216-PX (synthetic identifier)
+Date of Admission: 05 September 2026
+Date of Discharge: 09 September 2026
+Admitting Service: Infectious Diseases
+Primary Care Provider: None listed
+Allergies: Hives with doxycycline
+Past Medical History: Type 2 diabetes mellitus, peripheral neuropathy
+Chief Complaint: Fever, redness, swelling, and pain of the left lower leg for two days
+Hospital Course: The patient was admitted with uncomplicated left lower extremity cellulitis. Intravenous antibiotics and supportive care resulted in marked clinical improvement. Blood cultures remained negative and inflammatory markers decreased. The patient was transitioned to oral antibiotics and discharged in stable condition.
+
+## Diagnosis:
+Primary Diagnosis: Left lower extremity cellulitis
+Secondary Diagnosis: Type 2 diabetes mellitus
+Secondary Diagnosis: Peripheral neuropathy
+Clinical Outcome: Infection improved with antimicrobial therapy
+
+## Medications:
+Cephalexin: 500 mg orally four times daily for 7 days
+Metformin Extended Release: 1000 mg orally twice daily with meals
+Gabapentin: 300 mg orally at bedtime
+Acetaminophen: 500 mg orally every 6 hours as needed for pain; maximum 3000 mg per 24 hours
+
+## Lab Results:
+White Blood Cell Count: 8.1 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 14.0 g/dL (Reference Range: 13.5-17.5 g/dL)
+Platelet Count: 267 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 138 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.2 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Blood Urea Nitrogen: 17 mg/dL (Reference Range: 7-20 mg/dL)
+Creatinine: 0.94 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+Estimated Glomerular Filtration Rate: 92 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Glucose: 148 mg/dL (Reference Range: 70-99 mg/dL fasting)
+C-Reactive Protein: 10.9 mg/L (Reference Range: <5.0 mg/L)
+Blood Culture: No growth after 5 days
+
+## Vitals:
+Temperature: 36.7 degC
+Blood Pressure: 126/80 mmHg
+Heart Rate: 72 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 172 cm
+Weight: 79.4 kg
+Body Mass Index: 26.8 kg/m^2
+Pain Score: 2/10
+
+## Discharge Instructions:
+Complete the full antibiotic course.
+Keep the affected leg elevated when resting.
+Inspect the skin daily for worsening redness or drainage.
+Monitor blood glucose regularly.
+Follow up with the primary care clinician within one week.
+Seek immediate medical attention for high fever, rapidly spreading redness, severe pain, confusion, or difficulty breathing.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

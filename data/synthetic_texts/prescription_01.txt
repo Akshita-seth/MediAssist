@@ -1,0 +1,37 @@
+## PATIENT INFO
+Patient Name: Atlas Bramble (Fictional Synthetic Patient)
+Age: 58 years
+Sex: Male
+Prescription ID: SYN-RX-0001
+Date: 12 November 2026
+Prescriber: Dr. Orion Hale (Fictional)
+
+## DIAGNOSIS
+Primary Diagnosis: Essential Hypertension
+Secondary Diagnosis: Hyperlipidemia
+
+## MEDICATIONS
+Tab Telmisartan 40 mg PO QD x 30 tabs RF:2
+Tab Amlodipine 5 mg PO QD HS x 30 tabs RF:2
+Tab Rosuvastatin 10 mg PO HS x 30 tabs RF:2
+Tab Aspirin EC 75 mg PO QD PC x 30 tabs RF:2
+Tab Paracetamol 500 mg PO Q6H PRN pain/fever Max 4 g/day x 15 tabs RF:0
+
+## LAB VALUES
+Serum Creatinine: 0.92 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+eGFR: 96 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Potassium: 4.3 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Sodium: 139 mmol/L (Reference Range: 135-145 mmol/L)
+LDL Cholesterol: 164 mg/dL (Reference Range: <100 mg/dL)
+
+## VITALS
+BP: 154/94 mmHg
+HR: 82 bpm
+Wt: 81.4 kg
+Ht: 175 cm
+BMI: 26.6 kg/m^2
+
+## INSTRUCTIONS
+Low-salt diet.
+Home BP log.
+RTC 4 wks.

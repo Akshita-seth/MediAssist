@@ -1,0 +1,48 @@
+## Patient Info:
+Patient Name: Thorne Alderwick (fictional synthetic patient)
+Age: 39 years
+Sex: Male
+Laboratory Record Number: SYN-LAB-0007
+Collection Date: 08 November 2026
+Ordering Service: Endocrinology
+Ordering Clinician: None listed
+Clinical Indication: Evaluation of excessive thirst, frequent urination, blurred vision, and unexplained weight loss
+
+## Diagnosis:
+Clinical Impression: Poorly controlled type 2 diabetes mellitus with dyslipidemia
+Interpretation: Laboratory findings indicate chronic hyperglycemia with increased cardiovascular risk. Clinical correlation is recommended.
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Metformin Extended Release: 1000 mg orally twice daily with meals
+Empagliflozin: 10 mg orally once daily
+Atorvastatin: 20 mg orally at bedtime
+
+## Lab Results:
+Fasting Plasma Glucose: 246 mg/dL (Reference Range: 70-99 mg/dL)
+Hemoglobin A1c: 10.4 % (Reference Range: 4.0-5.6 %)
+Random Blood Glucose: 298 mg/dL (Reference Range: 70-140 mg/dL)
+Urine Glucose: 4+ (Reference Range: Negative)
+Urine Ketones: Trace (Reference Range: Negative)
+Urine Microalbumin: 124 mg/L (Reference Range: <30 mg/L)
+Serum Creatinine: 1.02 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+Estimated Glomerular Filtration Rate (eGFR): 92 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Total Cholesterol: 232 mg/dL (Reference Range: <200 mg/dL)
+LDL Cholesterol: 152 mg/dL (Reference Range: <100 mg/dL)
+HDL Cholesterol: 38 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 286 mg/dL (Reference Range: <150 mg/dL)
+
+## Vitals:
+Temperature: 36.8 degC
+Blood Pressure: 148/92 mmHg
+Heart Rate: 84 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 176 cm
+Weight: 91.6 kg
+Body Mass Index: 29.6 kg/m^2
+
+## Comments:
+The results demonstrate poorly controlled diabetes mellitus with persistent hyperglycemia, early diabetic kidney involvement, and mixed dyslipidemia. Close follow-up, lifestyle modification, and optimization of glucose-lowering therapy are recommended.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

@@ -1,0 +1,34 @@
+## Patient Info
+Patient Name: Griffin Ashmoor (Fictional Synthetic Patient)
+Age: 66 years
+Sex: Male
+Prescription ID: SYN-RX-0005
+Date: 20 November 2026
+Prescriber: Dr. Mira Solis (Fictional)
+
+## Diagnosis
+Primary Diagnosis: Chronic Kidney Disease Stage 3
+Secondary Diagnosis: Hyperkalemia
+
+## Medications
+Tab Sodium Bicarbonate 650 mg PO TID x 90 tabs RF:2
+Tab Calcium Acetate 667 mg PO TID PC x 90 tabs RF:2
+Tab Furosemide 40 mg PO QD x 30 tabs RF:2
+Tab Losartan 25 mg PO QD x 30 tabs RF:2
+
+## Lab Values
+Serum Creatinine: 2.08 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+eGFR: 38 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Potassium: 5.6 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Bicarbonate: 19 mmol/L (Reference Range: 22-29 mmol/L)
+
+## Vitals
+BP: 150/90 mmHg
+HR: 76 bpm
+Wt: 80.2 kg
+BMI: 27.4 kg/m^2
+
+## Instructions
+Low potassium diet.
+Maintain hydration.
+RTC 2 wks.

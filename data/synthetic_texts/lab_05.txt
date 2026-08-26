@@ -1,0 +1,49 @@
+## Patient Info:
+Patient Name: Hollis Briarstone (fictional synthetic patient)
+Age: 49 years
+Sex: Male
+Laboratory Record Number: SYN-LAB-0005
+Collection Date: 04 November 2026
+Ordering Service: Nephrology
+Ordering Clinician: None listed
+Clinical Indication: Evaluation of leg swelling, elevated blood pressure, and reduced kidney function
+
+## Diagnosis:
+Clinical Impression: Chronic kidney disease stage 3 with electrolyte imbalance
+Interpretation: Findings are consistent with moderate chronic renal impairment. Clinical correlation and nephrology follow-up are recommended.
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Losartan: 50 mg orally once daily
+Calcium Carbonate: 500 mg orally three times daily with meals
+Calcitriol: 0.25 micrograms orally once daily
+Furosemide: 40 mg orally once daily
+
+## Lab Results:
+Serum Creatinine: 2.14 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+Blood Urea Nitrogen (BUN): 46 mg/dL (Reference Range: 7-20 mg/dL)
+Estimated Glomerular Filtration Rate (eGFR): 36 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Sodium: 133 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 5.8 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Chloride: 99 mmol/L (Reference Range: 98-107 mmol/L)
+Bicarbonate: 18 mmol/L (Reference Range: 22-29 mmol/L)
+Calcium: 8.1 mg/dL (Reference Range: 8.6-10.2 mg/dL)
+Phosphorus: 5.9 mg/dL (Reference Range: 2.5-4.5 mg/dL)
+Magnesium: 2.6 mg/dL (Reference Range: 1.7-2.4 mg/dL)
+Urine Albumin-to-Creatinine Ratio: 482 mg/g (Reference Range: <30 mg/g)
+Parathyroid Hormone (PTH): 168 pg/mL (Reference Range: 15-65 pg/mL)
+
+## Vitals:
+Temperature: 36.8 degC
+Blood Pressure: 154/96 mmHg
+Heart Rate: 76 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 171 cm
+Weight: 83.5 kg
+Body Mass Index: 28.5 kg/m^2
+
+## Comments:
+Laboratory findings indicate moderate chronic kidney disease with hyperkalemia, metabolic acidosis, secondary hyperparathyroidism, and significant albuminuria. Timely nephrology follow-up and repeat renal function monitoring are recommended.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

@@ -1,0 +1,48 @@
+## Patient Info:
+Patient Name: Elowen Marshfield (fictional synthetic patient)
+Age: 27 years
+Sex: Female
+Laboratory Record Number: SYN-LAB-0006
+Collection Date: 06 November 2026
+Ordering Service: Infectious Diseases
+Ordering Clinician: None listed
+Clinical Indication: Evaluation of persistent fever, sore throat, and swollen lymph nodes
+
+## Diagnosis:
+Clinical Impression: Acute systemic bacterial infection with marked inflammatory response
+Interpretation: Laboratory findings suggest an active bacterial infection requiring prompt clinical management.
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Amoxicillin-Clavulanate: 875 mg/125 mg orally twice daily for 7 days
+Acetaminophen: 500 mg orally every 6 hours as needed for fever
+Oral Rehydration Solution: 250 mL orally after each febrile episode as tolerated
+
+## Lab Results:
+White Blood Cell Count: 18.9 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Neutrophils: 86 % (Reference Range: 40-70 %)
+Lymphocytes: 8 % (Reference Range: 20-45 %)
+Hemoglobin: 12.9 g/dL (Reference Range: 12.0-16.0 g/dL)
+Platelet Count: 438 x10^9/L (Reference Range: 150-400 x10^9/L)
+C-Reactive Protein (CRP): 146 mg/L (Reference Range: <5.0 mg/L)
+Erythrocyte Sedimentation Rate (ESR): 72 mm/hour (Reference Range: 0-20 mm/hour)
+Procalcitonin: 4.8 ng/mL (Reference Range: <0.25 ng/mL)
+Lactate: 2.6 mmol/L (Reference Range: 0.5-2.2 mmol/L)
+Blood Culture: Growth of fictional organism Bacterium synthetica var. alpha (Synthetic Result)
+Serum Sodium: 136 mmol/L (Reference Range: 135-145 mmol/L)
+Serum Creatinine: 0.81 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+
+## Vitals:
+Temperature: 39.2 degC
+Blood Pressure: 108/66 mmHg
+Heart Rate: 112 beats/minute
+Respiratory Rate: 22 breaths/minute
+Oxygen Saturation: 97% on room air
+Height: 167 cm
+Weight: 61.8 kg
+Body Mass Index: 22.2 kg/m^2
+
+## Comments:
+The laboratory profile demonstrates marked neutrophilic leukocytosis and significantly elevated inflammatory markers consistent with an acute bacterial infection. Correlation with clinical findings and repeat laboratory evaluation after treatment are recommended.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

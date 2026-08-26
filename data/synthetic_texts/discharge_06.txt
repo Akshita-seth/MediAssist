@@ -1,0 +1,65 @@
+## Patient Info
+Patient Name: Elara Thornfield (fictional synthetic patient)
+Age: 71 years
+Sex: Female
+Medical Record Number: SYN-66420-HT (synthetic identifier)
+Date of Admission: 18 August 2026
+Date of Discharge: 23 August 2026
+Admitting Service: Nephrology
+Primary Care Provider: None listed
+Allergies: Mild rash with ciprofloxacin
+Past Medical History: Chronic kidney disease stage 3, type 2 diabetes mellitus, essential hypertension
+Chief Complaint: Generalized weakness, decreased appetite, nausea, and reduced urine output for three days
+Hospital Course: The patient was admitted with acute kidney injury attributed to dehydration from viral gastroenteritis superimposed on chronic kidney disease. She received intravenous fluids, electrolyte correction, and medication adjustments. Renal function improved steadily during hospitalization, urine output normalized, and she was discharged in stable condition.
+
+## Diagnosis
+Primary Diagnosis: Acute kidney injury secondary to dehydration
+Secondary Diagnosis: Chronic kidney disease stage 3
+Secondary Diagnosis: Viral gastroenteritis
+Secondary Diagnosis: Type 2 diabetes mellitus
+Secondary Diagnosis: Essential hypertension
+Clinical Outcome: Renal function improved with conservative medical management
+
+## Medications
+Amlodipine: 5 mg orally once daily
+Metformin Extended Release: 500 mg orally twice daily with meals
+Empagliflozin: Temporarily hold until reviewed by nephrology
+Ondansetron: 4 mg orally every 8 hours as needed for nausea
+Vitamin D3: 1000 IU orally once daily
+Acetaminophen: 500 mg orally every 6 hours as needed for pain; maximum 3000 mg per 24 hours
+
+## Lab Results
+White Blood Cell Count: 7.2 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 11.8 g/dL (Reference Range: 12.0-16.0 g/dL)
+Platelet Count: 238 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 137 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.6 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Chloride: 101 mmol/L (Reference Range: 98-107 mmol/L)
+Bicarbonate: 23 mmol/L (Reference Range: 22-29 mmol/L)
+Blood Urea Nitrogen: 28 mg/dL (Reference Range: 7-20 mg/dL)
+Creatinine: 1.46 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+Estimated Glomerular Filtration Rate: 39 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Glucose: 132 mg/dL (Reference Range: 70-99 mg/dL fasting)
+Calcium: 9.0 mg/dL (Reference Range: 8.6-10.2 mg/dL)
+Magnesium: 2.0 mg/dL (Reference Range: 1.7-2.4 mg/dL)
+Urinalysis: No proteinuria, no nitrites, no leukocyte esterase
+
+## Vitals
+Temperature: 36.8 degC
+Blood Pressure: 128/78 mmHg
+Heart Rate: 70 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 97% on room air
+Height: 160 cm
+Weight: 67.8 kg
+Body Mass Index: 26.5 kg/m^2
+Pain Score: 1/10
+
+## Discharge Instructions
+Maintain adequate oral hydration unless otherwise instructed by the treating clinician.
+Resume normal activity gradually as tolerated.
+Avoid nonsteroidal anti-inflammatory drugs unless specifically prescribed.
+Monitor blood pressure and blood glucose daily.
+Arrange follow-up with the nephrology clinic within one week and repeat kidney function tests before the appointment.
+Seek immediate medical attention for persistent vomiting, inability to maintain hydration, markedly reduced urine output, severe weakness, chest pain, or difficulty breathing.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

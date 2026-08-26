@@ -1,0 +1,63 @@
+## Patient Info
+Patient Name: Orion Maplewell (fictional synthetic patient)
+Age: 43 years
+Sex: Male
+Medical Record Number: SYN-24681-RK (synthetic identifier)
+Date of Admission: 11 July 2026
+Date of Discharge: 15 July 2026
+Admitting Service: Pulmonology
+Primary Care Provider: None listed
+Allergies: Pruritus with erythromycin
+Past Medical History: Moderate persistent asthma, allergic rhinitis
+Chief Complaint: Progressive wheezing, cough, chest tightness, and shortness of breath despite home inhaler use
+Hospital Course: The patient was admitted with an acute asthma exacerbation likely triggered by a viral upper respiratory infection. Treatment included nebulized bronchodilators, systemic corticosteroids, supplemental oxygen, and supportive care. Respiratory symptoms improved steadily, oxygen was discontinued before discharge, and the patient demonstrated correct inhaler technique prior to leaving the hospital.
+
+## Diagnosis
+Primary Diagnosis: Acute exacerbation of moderate persistent asthma
+Secondary Diagnosis: Viral upper respiratory tract infection
+Secondary Diagnosis: Allergic rhinitis
+Clinical Outcome: Respiratory symptoms improved with no requirement for home oxygen
+
+## Medications
+Budesonide-Formoterol Inhaler: 160/4.5 micrograms, inhale 2 puffs twice daily
+Prednisone: 40 mg orally once daily for 5 days
+Albuterol Inhaler: 90 micrograms per actuation, inhale 2 puffs every 4 to 6 hours as needed for wheezing
+Montelukast: 10 mg orally at bedtime
+Cetirizine: 10 mg orally once daily
+
+## Lab Results
+White Blood Cell Count: 8.9 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 15.0 g/dL (Reference Range: 13.5-17.5 g/dL)
+Platelet Count: 278 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 139 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.4 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Chloride: 103 mmol/L (Reference Range: 98-107 mmol/L)
+Bicarbonate: 26 mmol/L (Reference Range: 22-29 mmol/L)
+Blood Urea Nitrogen: 15 mg/dL (Reference Range: 7-20 mg/dL)
+Creatinine: 0.92 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+Estimated Glomerular Filtration Rate: 96 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Glucose: 112 mg/dL (Reference Range: 70-99 mg/dL fasting)
+C-Reactive Protein: 5.8 mg/L (Reference Range: <5.0 mg/L)
+Eosinophil Count: 0.48 x10^9/L (Reference Range: 0.00-0.50 x10^9/L)
+Respiratory Viral PCR Panel: Positive for fictional respiratory virus subtype ZX-4 (synthetic result)
+
+## Vitals
+Temperature: 36.9 degC
+Blood Pressure: 120/74 mmHg
+Heart Rate: 76 beats/minute
+Respiratory Rate: 18 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 180 cm
+Weight: 84.1 kg
+Body Mass Index: 26.0 kg/m^2
+Peak Expiratory Flow: 510 L/min
+Pain Score: 0/10
+
+## Discharge Instructions
+Complete the prescribed prednisone course.
+Use the maintenance inhaler every day even if symptoms improve.
+Carry the rescue inhaler at all times.
+Avoid known asthma triggers including smoke and airborne irritants.
+Schedule follow-up with the pulmonology clinic within one week.
+Return immediately for worsening shortness of breath, inability to speak full sentences, bluish lips, severe chest tightness, or poor response to the rescue inhaler.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

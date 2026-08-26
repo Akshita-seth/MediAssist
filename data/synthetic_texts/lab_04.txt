@@ -1,0 +1,48 @@
+## Patient Info:
+Patient Name: Juniper Valecrest (fictional synthetic patient)
+Age: 61 years
+Sex: Female
+Laboratory Record Number: SYN-LAB-0004
+Collection Date: 02 November 2026
+Ordering Service: Hepatology
+Ordering Clinician: None listed
+Clinical Indication: Evaluation of jaundice, fatigue, and abnormal liver enzymes
+
+## Diagnosis:
+Clinical Impression: Hepatocellular liver injury pattern with impaired synthetic function
+Interpretation: Findings are compatible with significant liver dysfunction; correlate with imaging and clinical evaluation.
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Ursodeoxycholic Acid: 300 mg orally twice daily
+Vitamin K: 10 mg orally once daily for 3 days
+Lactulose: 15 mL orally twice daily as needed
+
+## Lab Results:
+Aspartate Aminotransferase (AST): 182 U/L (Reference Range: 10-40 U/L)
+Alanine Aminotransferase (ALT): 146 U/L (Reference Range: 7-56 U/L)
+Alkaline Phosphatase (ALP): 212 U/L (Reference Range: 44-147 U/L)
+Gamma-Glutamyl Transferase (GGT): 318 U/L (Reference Range: 9-48 U/L)
+Total Bilirubin: 3.6 mg/dL (Reference Range: 0.2-1.2 mg/dL)
+Direct Bilirubin: 2.1 mg/dL (Reference Range: 0.0-0.3 mg/dL)
+Albumin: 2.9 g/dL (Reference Range: 3.5-5.0 g/dL)
+Total Protein: 5.9 g/dL (Reference Range: 6.4-8.3 g/dL)
+Prothrombin Time (PT): 18.4 seconds (Reference Range: 11.0-13.5 seconds)
+International Normalized Ratio (INR): 1.8 (Reference Range: 0.8-1.2)
+Ammonia: 68 µmol/L (Reference Range: 15-45 µmol/L)
+Platelet Count: 132 x10^9/L (Reference Range: 150-400 x10^9/L)
+
+## Vitals:
+Temperature: 37.0 degC
+Blood Pressure: 118/72 mmHg
+Heart Rate: 88 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 97% on room air
+Height: 168 cm
+Weight: 72.4 kg
+Body Mass Index: 25.7 kg/m^2
+
+## Comments:
+The biochemical profile demonstrates marked liver injury with reduced synthetic function. Prompt specialist evaluation and follow-up testing are recommended.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

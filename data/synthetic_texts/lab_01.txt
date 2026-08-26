@@ -1,0 +1,48 @@
+## Patient Info:
+Patient Name: Cedar Wrenford (fictional synthetic patient)
+Age: 46 years
+Sex: Male
+Laboratory Record Number: SYN-LAB-48372 (synthetic identifier)
+Collection Date: 28 October 2026
+Ordering Service: General Medicine
+Ordering Clinician: None listed
+Clinical Indication: Routine metabolic and hematology evaluation with lipid assessment
+
+## Diagnosis:
+Clinical Impression: Mild dyslipidemia with impaired fasting glucose
+Interpretation: Correlate with clinical findings; repeat testing as clinically indicated
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Atorvastatin: 20 mg orally once daily
+Metformin Extended Release: 500 mg orally twice daily with meals
+Vitamin D3: 1000 IU orally once daily
+
+## Lab Results:
+White Blood Cell Count: 6.9 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 14.5 g/dL (Reference Range: 13.5-17.5 g/dL)
+Platelet Count: 258 x10^9/L (Reference Range: 150-400 x10^9/L)
+Fasting Glucose: 112 mg/dL (Reference Range: 70-99 mg/dL)
+Hemoglobin A1c: 5.9% (Reference Range: 4.0-5.6%)
+Total Cholesterol: 214 mg/dL (Reference Range: <200 mg/dL)
+LDL Cholesterol: 136 mg/dL (Reference Range: <100 mg/dL)
+HDL Cholesterol: 46 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 168 mg/dL (Reference Range: <150 mg/dL)
+Aspartate Aminotransferase (AST): 27 U/L (Reference Range: 10-40 U/L)
+Alanine Aminotransferase (ALT): 31 U/L (Reference Range: 7-56 U/L)
+
+## Vitals:
+Temperature: 36.7 degC
+Blood Pressure: 124/78 mmHg
+Heart Rate: 70 beats/minute
+Respiratory Rate: 15 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 177 cm
+Weight: 82.6 kg
+Body Mass Index: 26.4 kg/m^2
+
+## Comments:
+Overall findings are consistent with mild dyslipidemia and impaired fasting glucose.
+Clinical correlation and routine follow-up testing are recommended.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

@@ -1,0 +1,33 @@
+## Patient Info
+Patient Name: Nora Wrenfield (Fictional Synthetic Patient)
+Age: 42 years
+Sex: Female
+Prescription ID: SYN-RX-0004
+Date: 18 November 2026
+Prescriber: Dr. Elias Rowan (Fictional)
+
+## Diagnosis
+Primary Diagnosis: Primary Hypothyroidism
+Secondary Diagnosis: Vitamin D Deficiency
+
+## Medications
+Tab Levothyroxine 75 mcg PO QD AC x 30 tabs RF:3
+Cap Cholecalciferol 60000 IU PO QW x 8 caps RF:0
+Tab Calcium Citrate 500 mg PO BID PC x 60 tabs RF:2
+
+## Lab Values
+TSH: 11.8 mIU/L (Reference Range: 0.40-4.00 mIU/L)
+Free T4: 0.72 ng/dL (Reference Range: 0.80-1.80 ng/dL)
+Vitamin D (25-OH): 16 ng/mL (Reference Range: 30-100 ng/mL)
+Calcium: 8.7 mg/dL (Reference Range: 8.6-10.2 mg/dL)
+
+## Vitals
+BP: 118/74 mmHg
+HR: 64 bpm
+Wt: 63.4 kg
+BMI: 23.8 kg/m^2
+
+## Instructions
+Take thyroid medication fasting.
+Avoid calcium within 4 hrs.
+RTC 6 wks.

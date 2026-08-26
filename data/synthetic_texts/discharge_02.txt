@@ -1,0 +1,68 @@
+## PATIENT INFO
+Patient Name: Avery Bramblewick (fictional synthetic patient)
+Age: 62 years
+Sex: Male
+Medical Record Number: SYN-93157-QZ (synthetic identifier)
+Date of Admission: 08 April 2026
+Date of Discharge: 12 April 2026
+Admitting Service: Cardiology
+Primary Care Provider: None listed
+Allergies: No known drug allergies
+Past Medical History: Coronary artery disease, chronic hypertension, type 2 diabetes mellitus, chronic kidney disease stage 2
+Chief Complaint: Sudden onset central chest discomfort with sweating and nausea lasting approximately 45 minutes
+Hospital Course: Evaluation demonstrated a non-ST elevation myocardial infarction. The patient underwent successful coronary angiography with placement of a drug-eluting stent in the proximal left anterior descending coronary artery. Recovery was uncomplicated with no recurrent chest pain or arrhythmias. The patient was medically optimized and discharged in stable condition.
+
+## DIAGNOSIS
+Primary Diagnosis: Non-ST elevation myocardial infarction (NSTEMI)
+Secondary Diagnosis: Coronary artery disease
+Secondary Diagnosis: Essential hypertension
+Secondary Diagnosis: Type 2 diabetes mellitus
+Secondary Diagnosis: Chronic kidney disease stage 2
+Procedure Performed: Percutaneous coronary intervention with drug-eluting stent placement
+Clinical Outcome: Stable following successful revascularization
+
+## MEDICATIONS
+Aspirin: 81 mg orally once daily
+Clopidogrel: 75 mg orally once daily for 12 months
+Atorvastatin: 80 mg orally at bedtime
+Metoprolol Succinate: 50 mg orally once daily
+Ramipril: 5 mg orally once daily
+Metformin Extended Release: 500 mg orally twice daily with meals
+Nitroglycerin: 0.4 mg sublingually every 5 minutes as needed for chest pain; maximum 3 doses before seeking emergency care
+
+## LAB RESULTS
+White Blood Cell Count: 7.8 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 14.2 g/dL (Reference Range: 13.5-17.5 g/dL)
+Platelet Count: 251 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 140 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.3 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Blood Urea Nitrogen: 19 mg/dL (Reference Range: 7-20 mg/dL)
+Creatinine: 1.08 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+Estimated Glomerular Filtration Rate: 74 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Glucose: 154 mg/dL (Reference Range: 70-99 mg/dL fasting)
+High-Sensitivity Troponin I: 3.82 ng/mL (Reference Range: <0.04 ng/mL)
+Total Cholesterol: 196 mg/dL (Reference Range: <200 mg/dL)
+LDL Cholesterol: 118 mg/dL (Reference Range: <100 mg/dL)
+HDL Cholesterol: 42 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 172 mg/dL (Reference Range: <150 mg/dL)
+
+## VITALS
+Temperature: 36.7 degC
+Blood Pressure: 118/72 mmHg
+Heart Rate: 64 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 175 cm
+Weight: 81.2 kg
+Body Mass Index: 26.5 kg/m^2
+Pain Score: 0/10
+
+## DISCHARGE INSTRUCTIONS
+Take all prescribed medications exactly as directed without missing doses.
+Do not discontinue aspirin or clopidogrel unless instructed by the treating cardiologist.
+Avoid heavy lifting for one week following the catheterization procedure.
+Follow a heart-healthy diet low in saturated fat and sodium.
+Monitor blood pressure and blood glucose regularly at home.
+Schedule follow-up with the cardiology clinic within two weeks.
+Seek immediate medical attention for recurrent chest pain, severe shortness of breath, fainting, uncontrolled bleeding, or sudden neurological symptoms.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

@@ -1,0 +1,34 @@
+## Patient Info:
+Patient Name: Rowan Evermist (Fictional Synthetic Patient)
+Age: 55 years
+Sex: Male
+Prescription ID: SYN-RX-0007
+Date: 24 November 2026
+Prescriber: Dr. Isla Morgan (Fictional)
+
+## Diagnosis:
+Primary Diagnosis: Gastroesophageal Reflux Disease
+Secondary Diagnosis: Chronic Gastritis
+
+## Medications:
+Cap Pantoprazole 40 mg PO QD AC x 30 caps RF:2
+Tab Sucralfate 1 g PO QID AC/HS x 120 tabs RF:1
+Tab Domperidone 10 mg PO TID AC x 30 tabs RF:1
+Tab Antacid Chewable 500 mg PO PRN x 20 tabs RF:0
+
+## Lab Values:
+Hemoglobin: 13.6 g/dL (Reference Range: 13.5-17.5 g/dL)
+Serum Creatinine: 0.96 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+ALT: 28 U/L (Reference Range: 7-56 U/L)
+H. pylori Stool Antigen: Positive (Reference Range: Negative)
+
+## Vitals:
+BP: 126/80 mmHg
+HR: 72 bpm
+Wt: 78.5 kg
+BMI: 25.9 kg/m^2
+
+## Instructions:
+Avoid spicy food.
+No NSAIDs.
+RTC 4 wks.

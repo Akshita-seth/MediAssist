@@ -1,0 +1,78 @@
+## PATIENT INFO
+Patient Name: Rowan Quillstone (fictional synthetic patient)
+Age: 47 years
+Sex: Female
+Medical Record Number: SYN-48291-XF (synthetic identifier)
+Date of Admission: 14 March 2026
+Date of Discharge: 18 March 2026
+Admitting Service: General Internal Medicine
+Primary Care Provider: None listed
+Allergies: Rash with cefaclor; no known food allergies
+Past Medical History: Essential hypertension, type 2 diabetes mellitus, hyperlipidemia, mild intermittent asthma
+Chief Complaint: Four-day history of productive cough, fever, fatigue, and worsening shortness of breath
+Hospital Course: Chest imaging and clinical findings were consistent with right lower lobe community-acquired bacterial pneumonia. The patient received intravenous antibiotics, supplemental oxygen, intravenous fluids, bronchodilator therapy, and supportive care. Clinical status improved steadily, oxygen therapy was discontinued prior to discharge, and the patient was discharged home in stable condition.
+
+## DIAGNOSIS
+Primary Diagnosis: Community-acquired bacterial pneumonia involving the right lower lobe
+Secondary Diagnosis: Acute hypoxemic respiratory insufficiency, resolved
+Secondary Diagnosis: Type 2 diabetes mellitus with suboptimal glycemic control
+Secondary Diagnosis: Essential hypertension
+Secondary Diagnosis: Hyperlipidemia
+Secondary Diagnosis: Mild intermittent asthma without acute exacerbation
+Clinical Outcome: Symptoms significantly improved with treatment and no inpatient complications occurred
+
+## MEDICATIONS
+Amoxicillin-Clavulanate: 875 mg/125 mg orally twice daily for 5 days
+Azithromycin: 500 mg orally once daily for 2 days
+Metformin Extended Release: 1000 mg orally twice daily with meals
+Empagliflozin: 10 mg orally once daily
+Lisinopril: 20 mg orally once daily
+Atorvastatin: 40 mg orally at bedtime
+Albuterol Inhaler: 90 micrograms per actuation, inhale 2 puffs every 6 hours as needed for wheezing or shortness of breath
+Acetaminophen: 650 mg orally every 6 hours as needed for pain or fever; maximum 3000 mg per 24 hours
+
+## LAB RESULTS
+White Blood Cell Count: 8.4 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 13.1 g/dL (Reference Range: 12.0-16.0 g/dL)
+Hematocrit: 39.5% (Reference Range: 36.0-46.0%)
+Platelet Count: 286 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 139 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.2 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Chloride: 103 mmol/L (Reference Range: 98-107 mmol/L)
+Bicarbonate: 25 mmol/L (Reference Range: 22-29 mmol/L)
+Blood Urea Nitrogen: 16 mg/dL (Reference Range: 7-20 mg/dL)
+Creatinine: 0.88 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+Estimated Glomerular Filtration Rate: 91 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Glucose: 146 mg/dL (Reference Range: 70-99 mg/dL fasting)
+Aspartate Aminotransferase (AST): 24 U/L (Reference Range: 10-40 U/L)
+Alanine Aminotransferase (ALT): 27 U/L (Reference Range: 7-56 U/L)
+Alkaline Phosphatase: 82 U/L (Reference Range: 44-147 U/L)
+Total Bilirubin: 0.7 mg/dL (Reference Range: 0.2-1.2 mg/dL)
+Albumin: 3.9 g/dL (Reference Range: 3.5-5.0 g/dL)
+C-Reactive Protein: 12.4 mg/L (Reference Range: <5.0 mg/L)
+Peak C-Reactive Protein During Admission: 98.7 mg/L
+Procalcitonin: 0.18 ng/mL (Reference Range: <0.25 ng/mL)
+Blood Culture: No growth after 5 days
+Respiratory Viral PCR Panel: Negative for common respiratory viruses
+
+## VITALS
+Temperature: 36.8 degC
+Blood Pressure: 126/78 mmHg
+Heart Rate: 74 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 97% on room air
+Height: 168 cm
+Weight: 74.6 kg
+Body Mass Index: 26.4 kg/m^2
+Pain Score: 1/10
+
+## DISCHARGE INSTRUCTIONS
+Complete the prescribed antibiotic course without missing doses.
+Continue all chronic medications as prescribed.
+Maintain adequate oral hydration and resume normal physical activity gradually as tolerated.
+Monitor blood glucose regularly and follow a diabetes-appropriate diet.
+Monitor blood pressure at home at least once daily for the next week.
+Schedule follow-up with a primary care clinician within one week after discharge.
+Repeat chest imaging in approximately six weeks if recommended by the treating clinician.
+Seek immediate medical attention for persistent fever, worsening shortness of breath, chest pain, significant coughing of blood, confusion, inability to tolerate medications, or any rapidly worsening symptoms.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

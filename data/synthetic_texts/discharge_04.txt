@@ -1,0 +1,63 @@
+## Patient Info
+Patient Name: Linden Ashcroft (fictional synthetic patient)
+Age: 54 years
+Sex: Female
+Medical Record Number: SYN-51842-NV (synthetic identifier)
+Date of Admission: 02 June 2026
+Date of Discharge: 06 June 2026
+Admitting Service: Neurology
+Primary Care Provider: None listed
+Allergies: Mild rash with trimethoprim-sulfamethoxazole
+Past Medical History: Migraine, hypertension, hypothyroidism
+Chief Complaint: Sudden onset dizziness, left arm numbness, and slurred speech lasting approximately one hour
+Hospital Course: Brain imaging demonstrated a transient ischemic attack without evidence of acute infarction. Cardiac monitoring and vascular imaging did not reveal atrial fibrillation or significant carotid stenosis. Neurological symptoms resolved completely within several hours. Blood pressure was optimized and secondary stroke prevention therapy was initiated before discharge.
+
+## Diagnosis
+Primary Diagnosis: Transient ischemic attack
+Secondary Diagnosis: Essential hypertension
+Secondary Diagnosis: Hypothyroidism
+Secondary Diagnosis: History of migraine
+Clinical Outcome: Neurological deficits resolved completely with no residual impairment
+
+## Medications
+Aspirin: 81 mg orally once daily
+Rosuvastatin: 20 mg orally at bedtime
+Amlodipine: 5 mg orally once daily
+Levothyroxine: 75 micrograms orally once daily before breakfast
+Meclizine: 25 mg orally every 8 hours as needed for dizziness
+
+## Lab Results
+White Blood Cell Count: 6.7 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 13.6 g/dL (Reference Range: 12.0-16.0 g/dL)
+Platelet Count: 244 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 141 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.1 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Creatinine: 0.81 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+Estimated Glomerular Filtration Rate: 88 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Glucose: 101 mg/dL (Reference Range: 70-99 mg/dL fasting)
+Hemoglobin A1c: 5.9% (Reference Range: 4.0-5.6%)
+Total Cholesterol: 182 mg/dL (Reference Range: <200 mg/dL)
+LDL Cholesterol: 97 mg/dL (Reference Range: <100 mg/dL)
+HDL Cholesterol: 58 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 136 mg/dL (Reference Range: <150 mg/dL)
+Thyroid Stimulating Hormone: 2.1 mIU/L (Reference Range: 0.4-4.0 mIU/L)
+
+## Vitals
+Temperature: 36.6 degC
+Blood Pressure: 124/76 mmHg
+Heart Rate: 68 beats/minute
+Respiratory Rate: 14 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 166 cm
+Weight: 69.5 kg
+Body Mass Index: 25.2 kg/m^2
+Pain Score: 0/10
+
+## Discharge Instructions
+Take all prescribed medications consistently.
+Monitor blood pressure daily and maintain a written log.
+Follow a diet low in sodium and saturated fat.
+Exercise regularly as tolerated after clearance from the treating clinician.
+Schedule follow-up with the neurology clinic within two weeks.
+Seek immediate medical attention for sudden weakness, facial drooping, speech difficulty, severe headache, vision changes, or loss of consciousness.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

@@ -1,0 +1,33 @@
+## Patient Info
+Patient Name: Lyra Brookstone (Fictional Synthetic Patient)
+Age: 29 years
+Sex: Female
+Prescription ID: SYN-RX-0006
+Date: 22 November 2026
+Prescriber: Dr. Owen Hart (Fictional)
+
+## Diagnosis
+Primary Diagnosis: Acute Uncomplicated Urinary Tract Infection
+Secondary Diagnosis: Dysuria
+
+## Medications
+Cap Nitrofurantoin 100 mg PO BID x 10 caps RF:0
+Tab Phenazopyridine 200 mg PO TID PRN x 6 tabs RF:0
+Tab Paracetamol 500 mg PO Q6H PRN fever x 10 tabs RF:0
+
+## Lab Values
+Urine WBC: 45 /HPF (Reference Range: 0-5 /HPF)
+Urine Nitrite: Positive (Reference Range: Negative)
+Urine Leukocyte Esterase: 3+ (Reference Range: Negative)
+Serum Creatinine: 0.79 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+
+## Vitals
+BP: 116/72 mmHg
+HR: 84 bpm
+Temp: 37.8 degC
+Wt: 58.6 kg
+
+## Instructions
+Increase fluids.
+Complete antibiotic course.
+RTC PRN if fever persists.

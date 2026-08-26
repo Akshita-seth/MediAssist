@@ -1,0 +1,35 @@
+## Patient Info:
+Patient Name: Elara Thornfield (Fictional Synthetic Patient)
+Age: 36 years
+Sex: Female
+Prescription ID: SYN-RX-0008
+Date: 26 November 2026
+Prescriber: Dr. Cedric Vale (Fictional)
+
+## Diagnosis:
+Primary Diagnosis: Migraine Without Aura
+Secondary Diagnosis: Episodic Tension Headache
+
+## Medications:
+Tab Sumatriptan 50 mg PO PRN migraine Max 2/day x 10 tabs RF:2
+Tab Propranolol 40 mg PO BID x 60 tabs RF:2
+Tab Naproxen 250 mg PO BID PRN pain x 20 tabs RF:1
+Tab Ondansetron 4 mg PO TID PRN nausea x 10 tabs RF:1
+
+## Lab Values:
+Hemoglobin: 12.8 g/dL (Reference Range: 12.0-16.0 g/dL)
+Serum Creatinine: 0.74 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+Sodium: 140 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.1 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+
+## Vitals:
+BP: 118/76 mmHg
+HR: 68 bpm
+Wt: 60.9 kg
+BMI: 22.7 kg/m^2
+
+## Instructions:
+Maintain headache diary.
+Adequate hydration.
+Avoid known triggers.
+RTC 6 wks.

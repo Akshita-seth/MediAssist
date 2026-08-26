@@ -1,0 +1,47 @@
+## Patient Info:
+Patient Name: Rowan Emberwick (fictional synthetic patient)
+Age: 52 years
+Sex: Male
+Laboratory Record Number: SYN-LAB-0003
+Collection Date: 31 October 2026
+Ordering Service: Endocrinology
+Ordering Clinician: None listed
+Clinical Indication: Evaluation of weight gain, fatigue, cold intolerance, and constipation
+
+## Diagnosis:
+Clinical Impression: Primary hypothyroidism with associated dyslipidemia
+Interpretation: Findings are consistent with untreated hypothyroidism. Clinical correlation is recommended.
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Levothyroxine: 75 micrograms orally once daily before breakfast
+Rosuvastatin: 10 mg orally once daily at bedtime
+
+## Lab Results:
+Thyroid Stimulating Hormone (TSH): 18.7 mIU/L (Reference Range: 0.40-4.00 mIU/L)
+Free T4: 0.58 ng/dL (Reference Range: 0.80-1.80 ng/dL)
+Free T3: 2.1 pg/mL (Reference Range: 2.3-4.2 pg/mL)
+Anti-Thyroid Peroxidase Antibody (Anti-TPO): 286 IU/mL (Reference Range: <35 IU/mL)
+Total Cholesterol: 246 mg/dL (Reference Range: <200 mg/dL)
+LDL Cholesterol: 168 mg/dL (Reference Range: <100 mg/dL)
+HDL Cholesterol: 43 mg/dL (Reference Range: >40 mg/dL)
+Triglycerides: 212 mg/dL (Reference Range: <150 mg/dL)
+Creatine Kinase (CK): 246 U/L (Reference Range: 40-200 U/L)
+Hemoglobin: 12.7 g/dL (Reference Range: 13.5-17.5 g/dL)
+Sodium: 137 mmol/L (Reference Range: 135-145 mmol/L)
+Vitamin D (25-Hydroxy): 26 ng/mL (Reference Range: 30-100 ng/mL)
+
+## Vitals:
+Temperature: 36.4 degC
+Blood Pressure: 134/84 mmHg
+Heart Rate: 58 beats/minute
+Respiratory Rate: 15 breaths/minute
+Oxygen Saturation: 98% on room air
+Height: 173 cm
+Weight: 89.3 kg
+Body Mass Index: 29.8 kg/m^2
+
+## Comments:
+The thyroid profile is consistent with primary hypothyroidism, likely autoimmune in origin based on elevated anti-thyroid peroxidase antibodies. Dyslipidemia may improve following adequate thyroid hormone replacement.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

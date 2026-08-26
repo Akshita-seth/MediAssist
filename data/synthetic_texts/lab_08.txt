@@ -1,0 +1,48 @@
+## Patient Info:
+Patient Name: Mira Ashbourne (fictional synthetic patient)
+Age: 45 years
+Sex: Female
+Laboratory Record Number: SYN-LAB-0008
+Collection Date: 10 November 2026
+Ordering Service: Rheumatology
+Ordering Clinician: None listed
+Clinical Indication: Evaluation of joint pain, morning stiffness, and fatigue
+
+## Diagnosis:
+Clinical Impression: Autoimmune inflammatory arthritis with elevated inflammatory markers
+Interpretation: Laboratory findings support an autoimmune inflammatory process. Clinical correlation is recommended.
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Methotrexate: 15 mg orally once weekly
+Folic Acid: 5 mg orally once weekly (day after methotrexate)
+Naproxen: 250 mg orally twice daily as needed for pain
+
+## Lab Results:
+Rheumatoid Factor (RF): 148 IU/mL (Reference Range: <14 IU/mL)
+Anti-Cyclic Citrullinated Peptide (Anti-CCP): 186 U/mL (Reference Range: <20 U/mL)
+C-Reactive Protein (CRP): 38.4 mg/L (Reference Range: <5.0 mg/L)
+Erythrocyte Sedimentation Rate (ESR): 58 mm/hour (Reference Range: 0-20 mm/hour)
+Antinuclear Antibody (ANA): Negative (Reference Range: Negative)
+Hemoglobin: 11.2 g/dL (Reference Range: 12.0-16.0 g/dL)
+White Blood Cell Count: 8.7 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Platelet Count: 412 x10^9/L (Reference Range: 150-400 x10^9/L)
+Alanine Aminotransferase (ALT): 26 U/L (Reference Range: 7-56 U/L)
+Aspartate Aminotransferase (AST): 24 U/L (Reference Range: 10-40 U/L)
+Serum Creatinine: 0.76 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+Uric Acid: 4.8 mg/dL (Reference Range: 2.6-6.0 mg/dL)
+
+## Vitals:
+Temperature: 37.1 degC
+Blood Pressure: 122/78 mmHg
+Heart Rate: 80 beats/minute
+Respiratory Rate: 15 breaths/minute
+Oxygen Saturation: 99% on room air
+Height: 162 cm
+Weight: 64.7 kg
+Body Mass Index: 24.7 kg/m^2
+
+## Comments:
+The laboratory profile demonstrates positive rheumatoid factor, elevated anti-CCP antibodies, and increased inflammatory markers, consistent with active rheumatoid arthritis. Continued rheumatology follow-up and monitoring of treatment response are recommended.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

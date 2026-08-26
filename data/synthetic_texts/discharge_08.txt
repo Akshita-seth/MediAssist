@@ -1,0 +1,58 @@
+## Patient Info:
+Patient Name: Iris Hollowbrook (fictional synthetic patient)
+Age: 29 years
+Sex: Female
+Medical Record Number: SYN-35791-WL (synthetic identifier)
+Date of Admission: 17 October 2026
+Date of Discharge: 20 October 2026
+Admitting Service: Obstetrics and Gynecology
+Primary Care Provider: None listed
+Allergies: No known drug allergies
+Past Medical History: Iron deficiency anemia, polycystic ovary syndrome
+Chief Complaint: Lower abdominal pain, fever, and abnormal vaginal discharge for three days
+Hospital Course: The patient was admitted with acute pelvic inflammatory disease. She received intravenous antibiotics, intravenous fluids, pain management, and supportive care. Symptoms improved steadily, inflammatory markers decreased, and she was transitioned to oral antibiotics prior to discharge.
+
+## Diagnosis:
+Primary Diagnosis: Acute pelvic inflammatory disease
+Secondary Diagnosis: Iron deficiency anemia
+Secondary Diagnosis: Polycystic ovary syndrome
+Clinical Outcome: Clinical improvement following antimicrobial therapy without complications
+
+## Medications:
+Doxycycline: 100 mg orally twice daily for 14 days
+Metronidazole: 500 mg orally twice daily for 14 days
+Ferrous Sulfate: 325 mg orally once daily
+Ibuprofen: 400 mg orally every 8 hours as needed for pain
+Pantoprazole: 40 mg orally once daily before breakfast
+
+## Lab Results:
+White Blood Cell Count: 9.8 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 11.2 g/dL (Reference Range: 12.0-16.0 g/dL)
+Platelet Count: 289 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 139 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.0 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Creatinine: 0.72 mg/dL (Reference Range: 0.60-1.20 mg/dL)
+Estimated Glomerular Filtration Rate: 108 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+C-Reactive Protein: 18.6 mg/L (Reference Range: <5.0 mg/L)
+Erythrocyte Sedimentation Rate: 38 mm/hour (Reference Range: 0-20 mm/hour)
+Urine Pregnancy Test: Negative
+Blood Culture: No growth after 5 days
+
+## Vitals:
+Temperature: 36.9 degC
+Blood Pressure: 118/74 mmHg
+Heart Rate: 78 beats/minute
+Respiratory Rate: 16 breaths/minute
+Oxygen Saturation: 99% on room air
+Height: 165 cm
+Weight: 63.2 kg
+Body Mass Index: 23.2 kg/m^2
+Pain Score: 2/10
+
+## Discharge Instructions:
+Complete the full prescribed antibiotic course.
+Avoid sexual activity until treatment is completed and symptoms have resolved.
+Maintain adequate hydration and rest.
+Schedule follow-up with the gynecology clinic within one week.
+Seek immediate medical attention for worsening abdominal pain, persistent fever, heavy vaginal bleeding, fainting, or persistent vomiting.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

@@ -1,0 +1,38 @@
+## PATIENT INFO
+Patient Name: Cedric Mossvale (Fictional Synthetic Patient)
+Age: 31 years
+Sex: Male
+Prescription ID: SYN-RX-0003
+Date: 16 November 2026
+Prescriber: Dr. Elara Finch (Fictional)
+
+## DIAGNOSIS
+Primary Diagnosis: Moderate Persistent Bronchial Asthma
+Secondary Diagnosis: Allergic Rhinitis
+
+## MEDICATIONS
+Inh Budesonide/Formoterol 160/4.5 mcg 2 puffs BID x 1 inhaler RF:3
+Inh Salbutamol 100 mcg 2 puffs Q4-6H PRN wheeze x 1 inhaler RF:2
+Tab Montelukast 10 mg PO HS x 30 tabs RF:2
+Tab Levocetirizine 5 mg PO HS x 30 tabs RF:2
+NS Fluticasone 50 mcg 2 sprays/nostril QD x 1 bottle RF:2
+
+## LAB VALUES
+Absolute Eosinophil Count: 620 cells/µL (Reference Range: 30-350 cells/µL)
+Total IgE: 412 IU/mL (Reference Range: <100 IU/mL)
+Peak Expiratory Flow: 340 L/min (Reference Range: 450-650 L/min)
+Serum Creatinine: 0.88 mg/dL (Reference Range: 0.70-1.30 mg/dL)
+Potassium: 4.2 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+
+## VITALS
+BP: 124/78 mmHg
+HR: 88 bpm
+RR: 18/min
+SpO2: 97% RA
+Wt: 74.1 kg
+
+## INSTRUCTIONS
+Use spacer.
+Avoid allergens.
+Rinse mouth after ICS.
+RTC 4 wks.

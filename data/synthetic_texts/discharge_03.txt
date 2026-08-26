@@ -1,0 +1,68 @@
+## PATIENT INFO
+Patient Name: Marlowe Fernridge (fictional synthetic patient)
+Age: 35 years
+Sex: Female
+Medical Record Number: SYN-77428-LM (synthetic identifier)
+Date of Admission: 21 May 2026
+Date of Discharge: 24 May 2026
+Admitting Service: General Surgery
+Primary Care Provider: None listed
+Allergies: Nausea with codeine; no other known drug allergies
+Past Medical History: Gastroesophageal reflux disease, obesity
+Chief Complaint: Right lower abdominal pain with fever, nausea, and loss of appetite for 24 hours
+Hospital Course: Imaging demonstrated acute uncomplicated appendicitis. The patient underwent laparoscopic appendectomy without complications. Recovery was uneventful with adequate pain control, return of bowel function, and tolerance of a regular diet prior to discharge.
+
+## DIAGNOSIS
+Primary Diagnosis: Acute uncomplicated appendicitis
+Secondary Diagnosis: Status post laparoscopic appendectomy
+Secondary Diagnosis: Gastroesophageal reflux disease
+Secondary Diagnosis: Obesity
+Procedure Performed: Laparoscopic appendectomy
+Clinical Outcome: Excellent postoperative recovery without complications
+
+## MEDICATIONS
+Amoxicillin-Clavulanate: 875 mg/125 mg orally twice daily for 3 days
+Ibuprofen: 400 mg orally every 8 hours as needed for pain
+Acetaminophen: 500 mg orally every 6 hours as needed for pain; maximum 3000 mg per 24 hours
+Pantoprazole: 40 mg orally once daily before breakfast
+Docusate Sodium: 100 mg orally twice daily as needed for constipation
+
+## LAB RESULTS
+White Blood Cell Count: 9.6 x10^9/L (Reference Range: 4.0-11.0 x10^9/L)
+Hemoglobin: 12.8 g/dL (Reference Range: 12.0-16.0 g/dL)
+Hematocrit: 38.4% (Reference Range: 36.0-46.0%)
+Platelet Count: 272 x10^9/L (Reference Range: 150-400 x10^9/L)
+Sodium: 138 mmol/L (Reference Range: 135-145 mmol/L)
+Potassium: 4.0 mmol/L (Reference Range: 3.5-5.1 mmol/L)
+Chloride: 102 mmol/L (Reference Range: 98-107 mmol/L)
+Bicarbonate: 24 mmol/L (Reference Range: 22-29 mmol/L)
+Blood Urea Nitrogen: 13 mg/dL (Reference Range: 7-20 mg/dL)
+Creatinine: 0.76 mg/dL (Reference Range: 0.60-1.10 mg/dL)
+Estimated Glomerular Filtration Rate: 103 mL/min/1.73 m^2 (Reference Range: >60 mL/min/1.73 m^2)
+Glucose: 104 mg/dL (Reference Range: 70-99 mg/dL fasting)
+C-Reactive Protein: 8.7 mg/L (Reference Range: <5.0 mg/L)
+Aspartate Aminotransferase (AST): 22 U/L (Reference Range: 10-40 U/L)
+Alanine Aminotransferase (ALT): 19 U/L (Reference Range: 7-56 U/L)
+Total Bilirubin: 0.6 mg/dL (Reference Range: 0.2-1.2 mg/dL)
+Surgical Wound Culture: No bacterial growth
+
+## VITALS
+Temperature: 36.9 degC
+Blood Pressure: 122/76 mmHg
+Heart Rate: 72 beats/minute
+Respiratory Rate: 15 breaths/minute
+Oxygen Saturation: 99% on room air
+Height: 162 cm
+Weight: 74.8 kg
+Body Mass Index: 28.5 kg/m^2
+Pain Score: 2/10
+
+## DISCHARGE INSTRUCTIONS
+Keep surgical incision clean and dry.
+Shower after 24 hours but avoid soaking the incision for two weeks.
+Avoid lifting objects heavier than 5 kilograms for two weeks.
+Complete the prescribed antibiotic course.
+Walk daily as tolerated to reduce postoperative complications.
+Schedule follow-up with the surgical clinic within 7 to 10 days.
+Seek immediate medical attention for increasing abdominal pain, persistent vomiting, fever above 38.5 degC, wound redness with drainage, heavy bleeding, or difficulty breathing.
+This discharge summary is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.

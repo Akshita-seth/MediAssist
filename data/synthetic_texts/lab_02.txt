@@ -1,0 +1,51 @@
+## Patient Info:
+Patient Name: Briar Stonevale (fictional synthetic patient)
+Age: 34 years
+Sex: Female
+Laboratory Record Number: SYN-LAB-0002
+Collection Date: 30 October 2026
+Ordering Service: Internal Medicine
+Ordering Clinician: None listed
+Clinical Indication: Evaluation of fatigue, hair loss, and low energy
+
+## Diagnosis:
+Clinical Impression: Iron deficiency anemia with vitamin D deficiency
+Interpretation: Laboratory findings are suggestive of nutritional deficiency; correlate clinically.
+Report Status: Final
+Disclaimer: This report is entirely fictional and synthetic for document-processing system testing only.
+
+## Medications:
+Ferrous Sulfate: 325 mg orally once daily
+Vitamin D3: 60000 IU orally once weekly for 8 weeks
+Vitamin C: 500 mg orally once daily
+
+## Lab Results:
+Hemoglobin: 9.8 g/dL (Reference Range: 12.0-16.0 g/dL)
+Hematocrit: 31.2 % (Reference Range: 36.0-46.0 %)
+Red Blood Cell Count: 3.78 x10^12/L (Reference Range: 4.20-5.40 x10^12/L)
+Mean Corpuscular Volume (MCV): 74 fL (Reference Range: 80-100 fL)
+Mean Corpuscular Hemoglobin (MCH): 23.1 pg (Reference Range: 27.0-33.0 pg)
+Red Cell Distribution Width (RDW): 17.8 % (Reference Range: 11.5-14.5 %)
+Ferritin: 8 ng/mL (Reference Range: 15-150 ng/mL)
+Serum Iron: 28 µg/dL (Reference Range: 60-170 µg/dL)
+Total Iron Binding Capacity (TIBC): 462 µg/dL (Reference Range: 250-450 µg/dL)
+Transferrin Saturation: 6 % (Reference Range: 20-50 %)
+Vitamin D (25-Hydroxy): 14 ng/mL (Reference Range: 30-100 ng/mL)
+Vitamin B12: 368 pg/mL (Reference Range: 200-900 pg/mL)
+Folate: 9.6 ng/mL (Reference Range: 3.0-17.0 ng/mL)
+C-Reactive Protein: 2.1 mg/L (Reference Range: <5.0 mg/L)
+
+## Vitals:
+Temperature: 36.6 degC
+Blood Pressure: 112/70 mmHg
+Heart Rate: 82 beats/minute
+Respiratory Rate: 14 breaths/minute
+Oxygen Saturation: 99% on room air
+Height: 164 cm
+Weight: 57.8 kg
+Body Mass Index: 21.5 kg/m^2
+
+## Comments:
+Findings are most consistent with iron deficiency anemia accompanied by vitamin D deficiency.
+Follow-up iron studies and repeat complete blood count after treatment are recommended.
+This laboratory report is entirely fictional and synthetic and is intended solely for testing document-processing and information-extraction systems.
