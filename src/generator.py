@@ -68,7 +68,8 @@ explain what is stated in the document."""
         response = client.chat.completions.create(
             model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0
+            temperature=0,
+            seed=42
         )
 
         answer_text = response.choices[0].message.content
@@ -88,7 +89,7 @@ explain what is stated in the document."""
 
 if __name__ == "__main__":
     print("--- Blood type question ---")
-    print(answer_question("What is the patient's blood type?", source_doc="discharge_01.pdf"))
+    print(answer_question("What is the patient's blood type?", source_doc="discharge_01.pdf")["text"])
 
     print("\n--- Advice question ---")
-    print(answer_question("Would it be fine to take another dose?", source_doc="discharge_01.pdf"))
+    print(answer_question("Would it be fine to take another dose?", source_doc="discharge_01.pdf")["text"])

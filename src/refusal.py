@@ -28,7 +28,8 @@ Respond with exactly one word: INFO or ADVICE."""
         response = client.chat.completions.create(
             model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0
+            temperature=0,
+            seed=42
         )
         classification = response.choices[0].message.content.strip().upper()
         return classification == "ADVICE"

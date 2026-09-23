@@ -82,8 +82,8 @@ Measured end-to-end against a 95-question held-out test set (`eval_qa.json`), us
 | Metric | Result |
 |---|---|
 | Refusal accuracy | 100% (95/95) |
-| Retrieval hit rate | 94.4% (67/71) |
-| Hallucination rate | 8.5% (6/71) — improved from a 15.3% baseline |
+| Retrieval hit rate | 93.0% (66/71) |
+| Hallucination rate | 5.6% (4/71) |
 
 The improvement came from diagnosing a chunking bug: PyMuPDF merged an unusually long lab-test-name cell with its adjacent value into one span, misaligning every later row in that table. Fixed by detecting and splitting merged label/value pairs before chunking, then re-verified against the full eval set.
 
@@ -171,3 +171,20 @@ MediAssist/
 ## Why didn't you use LangChain?
 
 I wanted explicit control over the ingestion, chunking, retrieval and generation stages, so I implemented the pipeline directly. This also made it easier to debug retrieval failures and evaluate each stage independently
+
+
+- **Eval harness silently went stale after a `generator.py` interface change** — 
+  `answer_question()` was changed to return a structured dict (`{"type", "text", 
+  "retrieved"}`) to support distinct UI states (answered/refused/not-found/error), 
+  but `eval_harness.py` was not updated to match and continued treating the return 
+  value as a plain string. This wouldn't crash outright — it would silently feed 
+  malformed input to the judge LLM and produce a corrupted `eval_results.json`. 
+  Caught by manually cross-checking that `eval_harness.py`'s assumptions still 
+  matched `generator.py`'s actual behavior before trusting any reported metric. 
+  Fixed by updating the harness to read `result["text"]`, and used the same pass 
+  to correct two other measurement gaps: `check_retrieval_hit()` was checking for 
+  the presence of a label word (e.g. "fasting glucose") rather than the actual 
+  result value, and the hallucination judge had no way to distinguish a fabricated 
+  answer from an honest "I don't have that information" — one prior "hallucination" 
+  was actually a correct refusal. Corrected metrics: refusal accuracy 100% (95/95), 
+  retrieval hit rate 93.0% (66/71), hallucination rate 5.6% (4/71).

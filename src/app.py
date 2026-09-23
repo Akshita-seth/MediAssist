@@ -20,8 +20,8 @@ with st.sidebar:
     st.markdown("### Measured Accuracy")
     st.caption("From eval_harness.py, run on a 95-question held-out test set")
     st.metric("Refusal accuracy", "100% (95/95)")
-    st.metric("Retrieval hit rate", "94.4% (67/71)")
-    st.metric("Hallucination rate", "8.5% (6/71)")
+    st.metric("Retrieval hit rate", "93% (66/71)")
+    st.metric("Hallucination rate", "5.6% (4/71)")
 
 st.title("🩺 MediAssist")
 st.caption("Ask questions about your medical documents — grounded answers only, no medical advice.")
