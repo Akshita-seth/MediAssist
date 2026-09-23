@@ -1,3 +1,7 @@
+# ============================================
+# refusal.py — FULL FILE (replace existing)
+# ============================================
+
 import os
 from dotenv import load_dotenv
 from groq import Groq
@@ -20,13 +24,18 @@ Question: "{query}"
 
 Respond with exactly one word: INFO or ADVICE."""
 
-    response = client.chat.completions.create(
-        model="openai/gpt-oss-120b",
-        messages=[{"role": "user", "content": prompt}]
-    )
-
-    classification = response.choices[0].message.content.strip().upper()
-    return classification == "ADVICE"
+    try:
+        response = client.chat.completions.create(
+            model="openai/gpt-oss-120b",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0
+        )
+        classification = response.choices[0].message.content.strip().upper()
+        return classification == "ADVICE"
+    except Exception:
+        # Fail safe: if the classifier itself errors, don't silently treat
+        # an unclassified question as safe INFO - err toward refusing.
+        return True
 
 
 if __name__ == "__main__":

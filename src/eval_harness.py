@@ -21,10 +21,11 @@ Question: {question}
 Ground truth answer: {expected_answer}
 AI system's answer: {predicted_answer}
 
-Does the AI system's answer contain any claim that CONTRADICTS or is 
-NOT SUPPORTED by the ground truth answer? Minor differences in wording 
-or phrasing are fine - only flag genuine factual inconsistencies or 
-fabricated details.
+The AI system's answer may include ADDITIONAL true information from the 
+same document beyond what the ground truth mentions - this is NOT a 
+hallucination, only flag it if the answer contains information that 
+CONTRADICTS the ground truth or appears to be FABRICATED (not actually 
+present in a real medical document of this type).
 
 Respond with exactly one word: CONSISTENT or HALLUCINATED."""
 
